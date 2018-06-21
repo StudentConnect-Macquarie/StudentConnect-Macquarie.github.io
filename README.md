@@ -1,7 +1,8 @@
-# API.AI JQuery chat box for web
-This is a very simple jQuery implementation for getting started with integrating api.ai chatbot in your webpage, just like Embed integration of Api.ai, but customizable as per your will. 
+#  JQuery chat box for web testing mAI
 
-Happy Building :)
+You can deploy it on any page for the purposes of testing. 
+JavaScript, Bootstrap 3 (need to update to 4), HTML & CSS included - just enough to render the JSON on the page. 
 
-Sample:
-![UI Sample](demo.jpg)
+All mAI's brain will be kept seperate in JSON. 
+
+ 
